@@ -1,7 +1,7 @@
 
-                                   "WRITTEN WITH PYTHON 2.7"
+               ** "WRITTEN WITH PYTHON 2.7" **
 
-## Requirements:
+# Requirements:
 
 Make sure you install these packages before moving forward to other python libraries-
 
@@ -13,15 +13,15 @@ You can run `pip install -r requirements.txt` to install them all.
 
 After driving into the directory type:
 
-python PIN.py --gtts #for google speech enabled communication
+`python PIN.py --gtts` # for google speech enabled communication
 
-python PIN.py --voice #for voice chats
+`python PIN.py --voice` # for voice chats
 
-python PIN.py         #for text enabled communication
+`python PIN.py`         # for text enabled communication
 
   
 Chats written with AIML(Artificial Intelligence Markup Language) and some have been forked from A.L.I.C.E project github!
 
-## Environment:
+### Environment:
 
 For use in systems with python 2.7 or greater installed
